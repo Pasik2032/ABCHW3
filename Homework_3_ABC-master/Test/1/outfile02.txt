@@ -1,0 +1,6 @@
+Container contains 5 elements.
+0: It is bush: name = teeeeeeeeeeeeeeeeeeeу, Number month of flowering = 5. Quotient = 0.136364
+1: It is bush: name = teeess, Number month of flowering = 5. Quotient = 0.5
+2: It is flowers: name = tccccceeeestыв, type of = wild. Quotient = 0.75
+3: It is flowers: name = tcceeestыв, type of = wild. Quotient = 0.75
+4: It is tree: name = tввв, age = 35. Quotient = 1

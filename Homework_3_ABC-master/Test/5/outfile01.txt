@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 1000 elements.
+0: It is bush: name = tgwqfglu, Number month of flowering = 5. Quotient = 0.875
+1: It is flowers: name = k, type of = wild. Quotient = 1
+2: It is bush: name = dn, Number month of flowering = 9. Quotient = 1
+3: It is tree: name = p, age = 2. Quotient = 1
+4: It is flowers: name = hhzeadb, type of = homemade. Quotient = 0.714286
+5: It is bush: name = b, Number month of flowering = 11. Quotient = 1
+6: It is bush: name = obwhhtofjm, Number month of flowering = 4. Quotient = 0.8
+7: It is tree: name = iubxqysvwn, age = 9. Quotient = 0.7
+8: It is bush: name = ggskj, Number month of flowering = 5. Quotient = 1
+9: It is bush: name = gvm, Number month of flowering = 1. Quotient = 1
+10: It is tree: name = zlsjsyrs, age = 10. Quotient = 0.875
+11: It is bush: name = nsfka, Number month of flowering = 12. Quotient = 0.8
+12: It is tree: name = ez, age = 5. Quotient = 0.5
+13: It is tree: name = xxr, age = 3. Quotient = 1
+14: It is tree: name = v, age = 2. Quotient = 1
+15: It is tree: name = xuvmedv, age = 1. Quotient = 0.714286
+16: It is tree: name = fttfs, age = 6. Quotient = 1
+17: It is bush: name = sm, Number month of flowering = 8. Quotient = 1
+18: It is bush: name = fldib, Number month of flowering = 6. Quotient = 0.8
+19: It is flowers: name = pbfptg, type of = homemade. Quotient = 1
+20: It is bush: name = tizrn, Number month of flowering = 0. Quotient = 0.8
+21: It is tree: name = rhh, age = 15. Quotient = 1
+22: It is bush: name = cgxv, Number month of flowering = 8. Quotient = 1
+23: It is flowers: name = dg, type of = wild. Quotient = 1
+24: It is bush: name = hizrkbgtv, Number month of flowering = 4. Quotient = 0.888889
+25: It is flowers: name = ladlhpj, type of = homemade. Quotient = 0.857143
+26: It is flowers: name = oxtnygaj, type of = garden. Quotient = 0.625
+27: It is bush: name = emsm, Number month of flowering = 4. Quotient = 0.75
+28: It is tree: name = xw, age = 3. Quotient = 1
+29: It is bush: name = ainvpq, Number month of flowering = 5. Quotient = 0.666667
+30: It is tree: name = pswagf, age = 9. Quotient = 0.833333
+31: It is flowers: name = ejz, type of = wild. Quotient = 0.666667
+32: It is tree: name = zdoyn, age = 19. Quotient = 0.6
+33: It is tree: name = xwmtf, age = 14. Quotient = 1
+34: It is bush: name = eac, Number month of flowering = 2. Quotient = 0.333333
+35: It is bush: name = vuszgvpdsl, Number month of flowering = 12. Quotient = 0.9
+36: It is flowers: name = srea, type of = garden. Quotient = 0.5
+37: It is bush: name = gwgipn, Number month of flowering = 8. Quotient = 0.833333
+38: It is flowers: name = sivcyo, type of = homemade. Quotient = 0.5
+39: It is tree: name = fjtxhno, age = 19. Quotient = 0.857143
+40: It is flowers: name = quihwy, type of = wild. Quotient = 0.5
+41: It is flowers: name = fomhemcb, type of = homemade. Quotient = 0.75
+42: It is flowers: name = betmv, type of = garden. Quotient = 0.8
+43: It is bush: name = lvxw, Number month of flowering = 12. Quotient = 1
+44: It is bush: name = pqrqmto, Number month of flowering = 9. Quotient = 0.857143
+45: It is bush: name = ejoije, Number month of flowering = 10. Quotient = 0.333333
+46: It is tree: name = tj, age = 4. Quotient = 1
+47: It is flowers: name = idafsaidr, type of = wild. Quotient = 0.555556
+48: It is bush: name = znxhxxthn, Number month of flowering = 8. Quotient = 1
+49: It is bush: name = cf, Number month of flowering = 11. Quotient = 1
+50: It is tree: name = p, age = 10. Quotient = 1
+51: It is bush: name = oyanq, Number month of flowering = 5. Quotient = 0.4
+52: It is flowers: name = niboayhph, type of = garden. Quotient = 0.555556
+53: It is bush: name = dwg, Number month of flowering = 2. Quotient = 1
+54: It is flowers: name = lxhzr, type of = wild. Quotient = 1
+55: It is bush: name = z, Number month of flowering = 2. Quotient = 1
+56: It is tree: name = d, age = 13. Quotient = 1
+57: It is flowers: name = geeb, type of = wild. Quotient = 0.5
+58: It is tree: name = uqbyyzrla, age = 4. Quotient = 0.555556
+59: It is flowers: name = tmwlfdjx, type of = garden. Quotient = 1
+60: It is flowers: name = kfx, type of = wild. Quotient = 1
+61: It is flowers: name = ql, type of = garden. Quotient = 1
+62: It is bush: name = diiopo, Number month of flowering = 1. Quotient = 0.333333
+63: It is tree: name = fbe, age = 19. Quotient = 0.666667
+64: It is bush: name = vghwtnhzx, Number month of flowering = 8. Quotient = 1
+65: It is tree: name = c, age = 18. Quotient = 1
+66: It is flowers: name = wsphikggy, type of = garden. Quotient = 0.777778
+67: It is tree: name = fthbrwf, age = 16. Quotient = 1
+68: It is tree: name = hmdxfzb, age = 13. Quotient = 1
+69: It is flowers: name = qkq, type of = wild. Quotient = 1
+70: It is bush: name = tfxrz, Number month of flowering = 3. Quotient = 1
+71: It is flowers: name = qztfzfrc, type of = garden. Quotient = 1
+72: It is tree: name = fquyxugsz, age = 1. Quotient = 0.666667
+73: It is flowers: name = bwdockzy, type of = garden. Quotient = 0.75
+74: It is bush: name = ax, Number month of flowering = 8. Quotient = 0.5
+75: It is tree: name = mlbbaeb, age = 19. Quotient = 0.714286
+76: It is bush: name = bacdeiz, Number month of flowering = 2. Quotient = 0.571429
+77: It is tree: name = ojcc, age = 17. Quotient = 0.75
+78: It is tree: name = qvfsu, age = 2. Quotient = 0.8
+79: It is flowers: name = app, type of = garden. Quotient = 0.666667
+80: It is bush: name = hglzbordgg, Number month of flowering = 12. Quotient = 0.9
+81: It is flowers: name = mv, type of = wild. Quotient = 1
+82: It is bush: name = f, Number month of flowering = 9. Quotient = 1
+83: It is bush: name = cemhbokj, Number month of flowering = 10. Quotient = 0.75
+84: It is tree: name = fsoniutuo, age = 9. Quotient = 0.444444
+85: It is bush: name = vlud, Number month of flowering = 12. Quotient = 0.75
+86: It is tree: name = iwi, age = 17. Quotient = 0.333333
+87: It is bush: name = sip, Number month of flowering = 6. Quotient = 0.666667
+88: It is flowers: name = bjiybz, type of = wild. Quotient = 0.666667
+89: It is bush: name = omgpplx, Number month of flowering = 11. Quotient = 0.857143
+90: It is tree: name = eudlw, age = 8. Quotient = 0.6
+91: It is tree: name = uay, age = 15. Quotient = 0
+92: It is tree: name = klk, age = 8. Quotient = 1
+93: It is bush: name = bqnqw, Number month of flowering = 11. Quotient = 1
+94: It is tree: name = fqnypihn, age = 8. Quotient = 0.75
+95: It is flowers: name = xljc, type of = homemade. Quotient = 1
+96: It is tree: name = scpftvx, age = 1. Quotient = 1
+97: It is bush: name = uuhvqajiz, Number month of flowering = 7. Quotient = 0.555556
+98: It is bush: name = hch, Number month of flowering = 10. Quotient = 1
+99: It is tree: name = vdovazae, age = 11. Quotient = 0.5
+100: It is tree: name = ygdx, age = 16. Quotient = 0.75
+101: It is tree: name = qj, age = 11. Quotient = 1
+102: It is tree: name = dqcihldwu, age = 17. Quotient = 0.777778
+103: It is flowers: name = e, type of = garden. Quotient = 0
+104: It is bush: name = exan, Number month of flowering = 10. Quotient = 0.5
+105: It is flowers: name = yinsgv, type of = garden. Quotient = 0.666667
+106: It is bush: name = mneqn, Number month of flowering = 9. Quotient = 0.8
+107: It is flowers: name = oc, type of = garden. Quotient = 0.5
+108: It is bush: name = ppom, Number month of flowering = 6. Quotient = 0.75
+109: It is tree: name = au, age = 12. Quotient = 0
+110: It is flowers: name = armwdn, type of = wild. Quotient = 0.833333
+111: It is bush: name = et, Number month of flowering = 4. Quotient = 0.5
+112: It is tree: name = yfprt, age = 5. Quotient = 0.8
+113: It is flowers: name = lmrs, type of = homemade. Quotient = 1
+114: It is bush: name = t, Number month of flowering = 10. Quotient = 1
+115: It is tree: name = nnvpifaffl, age = 1. Quotient = 0.8
+116: It is tree: name = dzesb, age = 7. Quotient = 0.8
+117: It is tree: name = s, age = 17. Quotient = 1
+118: It is tree: name = zrpkdfyrjs, age = 3. Quotient = 0.9
+119: It is flowers: name = wkczxp, type of = wild. Quotient = 1
+120: It is tree: name = t, age = 13. Quotient = 1
+121: It is bush: name = gqgqcxer, Number month of flowering = 1. Quotient = 0.875
+122: It is tree: name = etgb, age = 20. Quotient = 0.75
+123: It is bush: name = x, Number month of flowering = 12. Quotient = 1
+124: It is tree: name = vowmc, age = 18. Quotient = 0.8
+125: It is flowers: name = r, type of = homemade. Quotient = 1
+126: It is tree: name = ykwt, age = 20. Quotient = 0.75
+127: It is tree: name = xynebg, age = 7. Quotient = 0.666667
+128: It is tree: name = eiewtws, age = 9. Quotient = 0.571429
+129: It is bush: name = qvro, Number month of flowering = 1. Quotient = 0.75
+130: It is flowers: name = zhe, type of = wild. Quotient = 0.666667
+131: It is tree: name = yzjstym, age = 5. Quotient = 0.714286
+132: It is flowers: name = ctxlxh, type of = garden. Quotient = 1
+133: It is bush: name = mocixly, Number month of flowering = 4. Quotient = 0.571429
+134: It is flowers: name = qn, type of = homemade. Quotient = 1
+135: It is bush: name = wzpuecadc, Number month of flowering = 1. Quotient = 0.666667
+136: It is bush: name = uovbwvnpd, Number month of flowering = 8. Quotient = 0.777778
+137: It is flowers: name = sawsxiz, type of = homemade. Quotient = 0.714286
+138: It is bush: name = vxyyuhzipi, Number month of flowering = 9. Quotient = 0.5
+139: It is bush: name = ltdjzayse, Number month of flowering = 4. Quotient = 0.666667
+140: It is bush: name = kvtzhzfva, Number month of flowering = 10. Quotient = 0.888889
+141: It is bush: name = ejbgcb, Number month of flowering = 0. Quotient = 0.833333
+142: It is flowers: name = qs, type of = wild. Quotient = 1
+143: It is tree: name = yv, age = 13. Quotient = 0.5
+144: It is bush: name = oe, Number month of flowering = 11. Quotient = 0
+145: It is flowers: name = mccq, type of = garden. Quotient = 1
+146: It is tree: name = wd, age = 11. Quotient = 1
+147: It is tree: name = eunwwsp, age = 1. Quotient = 0.714286
+148: It is bush: name = stvpvmj, Number month of flowering = 1. Quotient = 1
+149: It is bush: name = szuqibvyqm, Number month of flowering = 3. Quotient = 0.7
+150: It is tree: name = daktbuoexx, age = 3. Quotient = 0.6
+151: It is tree: name = jhkwb, age = 12. Quotient = 1
+152: It is tree: name = ux, age = 1. Quotient = 0.5
+153: It is tree: name = lrzah, age = 8. Quotient = 0.8
+154: It is bush: name = kncpe, Number month of flowering = 1. Quotient = 0.8
+155: It is tree: name = bv, age = 13. Quotient = 1
+156: It is tree: name = ekthus, age = 19. Quotient = 0.666667
+157: It is tree: name = ddmzxv, age = 10. Quotient = 1
+158: It is bush: name = fkz, Number month of flowering = 9. Quotient = 1
+159: It is tree: name = su, age = 20. Quotient = 0.5
+160: It is tree: name = mupwdwk, age = 17. Quotient = 0.857143
+161: It is flowers: name = enbdtmls, type of = garden. Quotient = 0.875
+162: It is bush: name = bqeaeloea, Number month of flowering = 2. Quotient = 0.333333
+163: It is flowers: name = sd, type of = homemade. Quotient = 1
+164: It is bush: name = yrzplwanry, Number month of flowering = 3. Quotient = 0.7
+165: It is tree: name = gayv, age = 2. Quotient = 0.5
+166: It is bush: name = zchf, Number month of flowering = 7. Quotient = 1
+167: It is bush: name = zdetxvqh, Number month of flowering = 9. Quotient = 0.875
+168: It is bush: name = yh, Number month of flowering = 4. Quotient = 0.5
+169: It is tree: name = jdmbbbnhs, age = 16. Quotient = 1
+170: It is bush: name = kmlvrdrfo, Number month of flowering = 5. Quotient = 0.888889
+171: It is flowers: name = ffrchd, type of = wild. Quotient = 1
+172: It is bush: name = iwli, Number month of flowering = 1. Quotient = 0.5
+173: It is bush: name = akdoxl, Number month of flowering = 2. Quotient = 0.666667
+174: It is flowers: name = ro, type of = wild. Quotient = 0.5
+175: It is bush: name = masory, Number month of flowering = 6. Quotient = 0.5
+176: It is bush: name = ghko, Number month of flowering = 2. Quotient = 0.75
+177: It is tree: name = kfrdfffzzz, age = 1. Quotient = 1
+178: It is bush: name = twsmzmwzl, Number month of flowering = 6. Quotient = 1
+179: It is flowers: name = kmtbf, type of = homemade. Quotient = 1
+180: It is flowers: name = d, type of = garden. Quotient = 1
+181: It is tree: name = mimsvcx, age = 4. Quotient = 0.857143
+182: It is flowers: name = lvkl, type of = homemade. Quotient = 1
+183: It is flowers: name = pkq, type of = homemade. Quotient = 1
+184: It is bush: name = jdxsw, Number month of flowering = 12. Quotient = 1
+185: It is flowers: name = dltor, type of = homemade. Quotient = 0.8
+186: It is bush: name = l, Number month of flowering = 6. Quotient = 1
+187: It is flowers: name = esg, type of = garden. Quotient = 0.666667
+188: It is tree: name = ucddy, age = 6. Quotient = 0.6
+189: It is bush: name = ejyfiw, Number month of flowering = 11. Quotient = 0.5
+190: It is bush: name = gaaiz, Number month of flowering = 7. Quotient = 0.4
+191: It is bush: name = qugjyhbgbw, Number month of flowering = 1. Quotient = 0.8
+192: It is tree: name = tcqa, age = 13. Quotient = 0.75
+193: It is bush: name = whlabbtqkb, Number month of flowering = 6. Quotient = 0.9
+194: It is tree: name = p, age = 3. Quotient = 1
+195: It is bush: name = bczjp, Number month of flowering = 8. Quotient = 1
+196: It is tree: name = zqmfe, age = 4. Quotient = 0.8
+197: It is flowers: name = dikjfr, type of = garden. Quotient = 0.833333
+198: It is tree: name = ij, age = 13. Quotient = 0.5
+199: It is bush: name = gpedrzn, Number month of flowering = 9. Quotient = 0.857143
+200: It is tree: name = j, age = 13. Quotient = 1
+201: It is tree: name = wpej, age = 3. Quotient = 0.75
+202: It is bush: name = zn, Number month of flowering = 12. Quotient = 1
+203: It is tree: name = tzcfff, age = 6. Quotient = 1
+204: It is tree: name = vhgosxv, age = 16. Quotient = 0.857143
+205: It is bush: name = xf, Number month of flowering = 11. Quotient = 1
+206: It is flowers: name = tkgpqj, type of = garden. Quotient = 1
+207: It is bush: name = zstanvt, Number month of flowering = 3. Quotient = 0.857143
+208: It is bush: name = lfx, Number month of flowering = 8. Quotient = 1
+209: It is flowers: name = hxfq, type of = garden. Quotient = 1
+210: It is tree: name = i, age = 4. Quotient = 0
+211: It is flowers: name = kz, type of = garden. Quotient = 1
+212: It is bush: name = vwleoatupu, Number month of flowering = 8. Quotient = 0.5
+213: It is tree: name = ndano, age = 11. Quotient = 0.6
+214: It is bush: name = bpx, Number month of flowering = 4. Quotient = 1
+215: It is bush: name = zgutfw, Number month of flowering = 7. Quotient = 0.833333
+216: It is bush: name = iyb, Number month of flowering = 11. Quotient = 0.333333
+217: It is bush: name = yzzolymm, Number month of flowering = 0. Quotient = 0.625
+218: It is tree: name = ej, age = 20. Quotient = 0.5
+219: It is tree: name = a, age = 14. Quotient = 0
+220: It is flowers: name = yvlw, type of = wild. Quotient = 0.75
+221: It is bush: name = ovsnv, Number month of flowering = 10. Quotient = 0.8
+222: It is tree: name = dza, age = 6. Quotient = 0.666667
+223: It is bush: name = nbqqcwo, Number month of flowering = 12. Quotient = 0.857143
+224: It is flowers: name = redds, type of = garden. Quotient = 0.8
+225: It is bush: name = sreovwl, Number month of flowering = 12. Quotient = 0.714286
+226: It is tree: name = qzdw, age = 6. Quotient = 1
+227: It is tree: name = u, age = 5. Quotient = 0
+228: It is flowers: name = afobwg, type of = garden. Quotient = 0.666667
+229: It is flowers: name = dzkiyt, type of = homemade. Quotient = 0.666667
+230: It is flowers: name = ubwj, type of = garden. Quotient = 0.75
+231: It is flowers: name = pvtbgkcgno, type of = wild. Quotient = 0.9
+232: It is bush: name = lgjupp, Number month of flowering = 2. Quotient = 0.833333
+233: It is flowers: name = fah, type of = homemade. Quotient = 0.666667
+234: It is tree: name = dvkkxsfrc, age = 13. Quotient = 1
+235: It is tree: name = nsx, age = 11. Quotient = 1
+236: It is tree: name = jm, age = 10. Quotient = 1
+237: It is tree: name = dqzqudpsxr, age = 2. Quotient = 0.9
+238: It is bush: name = ow, Number month of flowering = 7. Quotient = 0.5
+239: It is bush: name = rrppb, Number month of flowering = 11. Quotient = 1
+240: It is flowers: name = tyhkfivrx, type of = wild. Quotient = 0.777778
+241: It is bush: name = u, Number month of flowering = 2. Quotient = 0
+242: It is flowers: name = yluysd, type of = garden. Quotient = 0.5
+243: It is bush: name = urpfssjox, Number month of flowering = 4. Quotient = 0.777778
+244: It is flowers: name = qx, type of = homemade. Quotient = 1
+245: It is bush: name = oylgj, Number month of flowering = 10. Quotient = 0.6
+246: It is bush: name = gghoadg, Number month of flowering = 8. Quotient = 0.714286
+247: It is flowers: name = ipfrokfmab, type of = garden. Quotient = 0.7
+248: It is tree: name = nq, age = 16. Quotient = 1
+249: It is flowers: name = aizxpuflpt, type of = wild. Quotient = 0.7
+250: It is bush: name = tcxkofqvzs, Number month of flowering = 8. Quotient = 0.9
+251: It is flowers: name = qsf, type of = wild. Quotient = 1
+252: It is bush: name = eaefwj, Number month of flowering = 7. Quotient = 0.5
+253: It is bush: name = ewtqzrdgo, Number month of flowering = 8. Quotient = 0.777778
+254: It is bush: name = a, Number month of flowering = 0. Quotient = 0
+255: It is flowers: name = gv, type of = wild. Quotient = 1
+256: It is tree: name = o, age = 18. Quotient = 0
+257: It is bush: name = v, Number month of flowering = 6. Quotient = 1
+258: It is tree: name = bkynj, age = 13. Quotient = 0.8
+259: It is tree: name = mffzsegkd, age = 7. Quotient = 0.888889
+260: It is bush: name = jox, Number month of flowering = 1. Quotient = 0.666667
+261: It is bush: name = xbpdc, Number month of flowering = 0. Quotient = 1
+262: It is bush: name = gpdozqrwm, Number month of flowering = 11. Quotient = 0.888889
+263: It is tree: name = sqcw, age = 9. Quotient = 1
+264: It is flowers: name = kafnyjrov, type of = homemade. Quotient = 0.666667
+265: It is bush: name = waxxsr, Number month of flowering = 5. Quotient = 0.833333
+266: It is tree: name = bkbixsqh, age = 19. Quotient = 0.875
+267: It is bush: name = brgf, Number month of flowering = 9. Quotient = 1
+268: It is bush: name = hvxlqb, Number month of flowering = 10. Quotient = 1
+269: It is bush: name = nul, Number month of flowering = 11. Quotient = 0.666667
+270: It is flowers: name = lcap, type of = wild. Quotient = 0.75
+271: It is bush: name = armorivy, Number month of flowering = 6. Quotient = 0.5
+272: It is flowers: name = cadf, type of = garden. Quotient = 0.75
+273: It is flowers: name = dzpvsng, type of = garden. Quotient = 1
+274: It is flowers: name = dbdixrgxcr, type of = homemade. Quotient = 0.9
+275: It is tree: name = lhjoak, age = 20. Quotient = 0.666667
+276: It is tree: name = opqrotb, age = 9. Quotient = 0.714286
+277: It is bush: name = g, Number month of flowering = 3. Quotient = 1
+278: It is bush: name = eaogo, Number month of flowering = 11. Quotient = 0.2
+279: It is tree: name = raf, age = 18. Quotient = 0.666667
+280: It is bush: name = yewjbirn, Number month of flowering = 8. Quotient = 0.625
+281: It is tree: name = kgaydo, age = 16. Quotient = 0.5
+282: It is flowers: name = wrb, type of = homemade. Quotient = 1
+283: It is bush: name = nfqql, Number month of flowering = 8. Quotient = 1
+284: It is tree: name = lebunatq, age = 5. Quotient = 0.625
+285: It is bush: name = hjvgvtb, Number month of flowering = 1. Quotient = 1
+286: It is tree: name = oeerl, age = 11. Quotient = 0.4
+287: It is flowers: name = envp, type of = wild. Quotient = 0.75
+288: It is bush: name = rdtipz, Number month of flowering = 12. Quotient = 0.833333
+289: It is flowers: name = fqirvxjni, type of = garden. Quotient = 0.777778
+290: It is tree: name = whpemt, age = 8. Quotient = 0.833333
+291: It is bush: name = zrdjgmuyq, Number month of flowering = 0. Quotient = 0.777778
+292: It is bush: name = e, Number month of flowering = 2. Quotient = 0
+293: It is bush: name = bsdsa, Number month of flowering = 9. Quotient = 0.8
+294: It is bush: name = fvfsiezvet, Number month of flowering = 1. Quotient = 0.7
+295: It is bush: name = qp, Number month of flowering = 9. Quotient = 1
+296: It is flowers: name = ykkzaucwp, type of = homemade. Quotient = 0.666667
+297: It is bush: name = cunqkmcoh, Number month of flowering = 11. Quotient = 0.777778
+298: It is bush: name = ikbp, Number month of flowering = 10. Quotient = 0.75
+299: It is bush: name = rh, Number month of flowering = 2. Quotient = 1
+300: It is bush: name = jya, Number month of flowering = 1. Quotient = 0.333333
+301: It is bush: name = kry, Number month of flowering = 1. Quotient = 0.666667
+302: It is tree: name = ganoaojjg, age = 8. Quotient = 0.555556
+303: It is tree: name = asbytsl, age = 3. Quotient = 0.714286
+304: It is tree: name = dha, age = 9. Quotient = 0.666667
+305: It is bush: name = s, Number month of flowering = 1. Quotient = 1
+306: It is flowers: name = epcryp, type of = homemade. Quotient = 0.666667
+307: It is flowers: name = kjoaseye, type of = homemade. Quotient = 0.375
+308: It is flowers: name = jvz, type of = wild. Quotient = 1
+309: It is flowers: name = dyyk, type of = wild. Quotient = 0.5
+310: It is flowers: name = pwzumrpzqp, type of = homemade. Quotient = 0.9
+311: It is bush: name = qwzo, Number month of flowering = 0. Quotient = 0.75
+312: It is bush: name = us, Number month of flowering = 11. Quotient = 0.5
+313: It is flowers: name = vlptdwcoh, type of = homemade. Quotient = 0.888889
+314: It is bush: name = viwoxqvch, Number month of flowering = 12. Quotient = 0.777778
+315: It is flowers: name = hkmght, type of = wild. Quotient = 1
+316: It is bush: name = jvfgyx, Number month of flowering = 4. Quotient = 0.833333
+317: It is flowers: name = pdpufufct, type of = garden. Quotient = 0.777778
+318: It is tree: name = k, age = 14. Quotient = 1
+319: It is tree: name = sb, age = 17. Quotient = 1
+320: It is flowers: name = jlpqewna, type of = wild. Quotient = 0.75
+321: It is flowers: name = mauufkjgcb, type of = wild. Quotient = 0.7
+322: It is tree: name = dgwneq, age = 19. Quotient = 0.833333
+323: It is bush: name = glaz, Number month of flowering = 2. Quotient = 0.75
+324: It is tree: name = rxlsnrqr, age = 16. Quotient = 1
+325: It is flowers: name = wgytgtdia, type of = homemade. Quotient = 0.666667
+326: It is flowers: name = nnobhjgmc, type of = garden. Quotient = 0.888889
+327: It is flowers: name = pif, type of = homemade. Quotient = 0.666667
+328: It is flowers: name = epq, type of = homemade. Quotient = 0.666667
+329: It is bush: name = implkjo, Number month of flowering = 6. Quotient = 0.714286
+330: It is bush: name = j, Number month of flowering = 1. Quotient = 1
+331: It is bush: name = jzf, Number month of flowering = 2. Quotient = 1
+332: It is bush: name = slgzmomhdv, Number month of flowering = 12. Quotient = 0.9
+333: It is flowers: name = gincpzjmct, type of = homemade. Quotient = 0.9
+334: It is bush: name = a, Number month of flowering = 11. Quotient = 0
+335: It is tree: name = occqjzo, age = 18. Quotient = 0.714286
+336: It is bush: name = duyhkok, Number month of flowering = 10. Quotient = 0.571429
+337: It is flowers: name = cexvsitfd, type of = homemade. Quotient = 0.777778
+338: It is flowers: name = rpqs, type of = wild. Quotient = 1
+339: It is flowers: name = oot, type of = homemade. Quotient = 0.333333
+340: It is bush: name = jhd, Number month of flowering = 10. Quotient = 1
+341: It is tree: name = valkpsg, age = 4. Quotient = 0.857143
+342: It is tree: name = xwpgg, age = 4. Quotient = 1
+343: It is tree: name = axfgyn, age = 12. Quotient = 0.666667
+344: It is flowers: name = aa, type of = garden. Quotient = 0
+345: It is flowers: name = ddfn, type of = wild. Quotient = 1
+346: It is flowers: name = gjwb, type of = garden. Quotient = 1
+347: It is tree: name = ievobiqtmz, age = 1. Quotient = 0.6
+348: It is bush: name = txjt, Number month of flowering = 11. Quotient = 1
+349: It is tree: name = qxkpfwpsr, age = 6. Quotient = 1
+350: It is bush: name = pkgjtb, Number month of flowering = 8. Quotient = 1
+351: It is tree: name = te, age = 14. Quotient = 0.5
+352: It is bush: name = peorvdy, Number month of flowering = 1. Quotient = 0.571429
+353: It is bush: name = k, Number month of flowering = 4. Quotient = 1
+354: It is tree: name = rhbfh, age = 2. Quotient = 1
+355: It is tree: name = rurec, age = 5. Quotient = 0.6
+356: It is tree: name = emc, age = 12. Quotient = 0.666667
+357: It is bush: name = v, Number month of flowering = 11. Quotient = 1
+358: It is tree: name = grsrqtbqvu, age = 5. Quotient = 0.9
+359: It is tree: name = fwmqbe, age = 9. Quotient = 0.833333
+360: It is bush: name = qdvqj, Number month of flowering = 4. Quotient = 1
+361: It is bush: name = vszxzdtk, Number month of flowering = 2. Quotient = 1
+362: It is tree: name = s, age = 16. Quotient = 1
+363: It is bush: name = ev, Number month of flowering = 11. Quotient = 0.5
+364: It is bush: name = hdpeemlxz, Number month of flowering = 5. Quotient = 0.777778
+365: It is flowers: name = tdbhvrd, type of = wild. Quotient = 1
+366: It is flowers: name = ipxle, type of = homemade. Quotient = 0.6
+367: It is bush: name = uqixbrlj, Number month of flowering = 9. Quotient = 0.75
+368: It is bush: name = wrzz, Number month of flowering = 7. Quotient = 1
+369: It is tree: name = zn, age = 7. Quotient = 1
+370: It is bush: name = mrk, Number month of flowering = 1. Quotient = 1
+371: It is flowers: name = diictwjl, type of = garden. Quotient = 0.75
+372: It is tree: name = bfttctooui, age = 7. Quotient = 0.6
+373: It is bush: name = llzfhzwlhn, Number month of flowering = 9. Quotient = 1
+374: It is bush: name = wtdne, Number month of flowering = 6. Quotient = 0.8
+375: It is flowers: name = dgqprgqqos, type of = wild. Quotient = 0.9
+376: It is flowers: name = rnbhsfn, type of = garden. Quotient = 1
+377: It is bush: name = yxeut, Number month of flowering = 10. Quotient = 0.4
+378: It is flowers: name = rbwvxziog, type of = wild. Quotient = 0.777778
+379: It is tree: name = vwlz, age = 19. Quotient = 1
+380: It is tree: name = nhkc, age = 1. Quotient = 1
+381: It is tree: name = spx, age = 18. Quotient = 1
+382: It is tree: name = ynuyyrxr, age = 5. Quotient = 0.5
+383: It is flowers: name = prhcbakb, type of = wild. Quotient = 0.875
+384: It is bush: name = gyalo, Number month of flowering = 9. Quotient = 0.4
+385: It is bush: name = s, Number month of flowering = 7. Quotient = 1
+386: It is flowers: name = jw, type of = garden. Quotient = 1
+387: It is bush: name = twm, Number month of flowering = 1. Quotient = 1
+388: It is flowers: name = xztg, type of = garden. Quotient = 1
+389: It is flowers: name = svhy, type of = homemade. Quotient = 0.75
+390: It is bush: name = iwywqnyz, Number month of flowering = 1. Quotient = 0.625
+391: It is bush: name = exnoaif, Number month of flowering = 6. Quotient = 0.428571
+392: It is tree: name = ezdxivtla, age = 10. Quotient = 0.666667
+393: It is tree: name = pn, age = 14. Quotient = 1
+394: It is bush: name = cocc, Number month of flowering = 9. Quotient = 0.75
+395: It is bush: name = pl, Number month of flowering = 3. Quotient = 1
+396: It is tree: name = hi, age = 15. Quotient = 0.5
+397: It is bush: name = ggntai, Number month of flowering = 12. Quotient = 0.666667
+398: It is tree: name = ngkxdlr, age = 19. Quotient = 1
+399: It is tree: name = kd, age = 16. Quotient = 1
+400: It is bush: name = h, Number month of flowering = 10. Quotient = 1
+401: It is bush: name = qqrxnmzeyp, Number month of flowering = 4. Quotient = 0.8
+402: It is tree: name = fzvsaabrat, age = 12. Quotient = 0.7
+403: It is flowers: name = e, type of = wild. Quotient = 0
+404: It is flowers: name = bvh, type of = garden. Quotient = 1
+405: It is flowers: name = vtgvw, type of = homemade. Quotient = 1
+406: It is flowers: name = tue, type of = wild. Quotient = 0.333333
+407: It is flowers: name = v, type of = wild. Quotient = 1
+408: It is tree: name = twjvaah, age = 11. Quotient = 0.714286
+409: It is tree: name = ttwioi, age = 6. Quotient = 0.5
+410: It is bush: name = zcz, Number month of flowering = 4. Quotient = 1
+411: It is flowers: name = mzo, type of = garden. Quotient = 0.666667
+412: It is bush: name = iykcvkki, Number month of flowering = 7. Quotient = 0.625
+413: It is bush: name = cbrwu, Number month of flowering = 7. Quotient = 0.8
+414: It is bush: name = dpbskojjx, Number month of flowering = 12. Quotient = 0.888889
+415: It is tree: name = pdav, age = 15. Quotient = 0.75
+416: It is bush: name = ddnto, Number month of flowering = 4. Quotient = 0.8
+417: It is tree: name = z, age = 13. Quotient = 1
+418: It is flowers: name = nsc, type of = homemade. Quotient = 1
+419: It is bush: name = fqufncotwq, Number month of flowering = 2. Quotient = 0.8
+420: It is tree: name = w, age = 13. Quotient = 1
+421: It is tree: name = anqbbhhnkb, age = 10. Quotient = 0.9
+422: It is flowers: name = twytdy, type of = homemade. Quotient = 0.666667
+423: It is bush: name = kbl, Number month of flowering = 0. Quotient = 1
+424: It is tree: name = buzqrmyhz, age = 19. Quotient = 0.777778
+425: It is bush: name = rpqo, Number month of flowering = 5. Quotient = 0.75
+426: It is bush: name = vovjlw, Number month of flowering = 10. Quotient = 0.833333
+427: It is tree: name = zv, age = 14. Quotient = 1
+428: It is bush: name = hodlsmktqp, Number month of flowering = 3. Quotient = 0.9
+429: It is bush: name = lxmqbmmu, Number month of flowering = 11. Quotient = 0.875
+430: It is tree: name = waisbmddkw, age = 2. Quotient = 0.8
+431: It is tree: name = xglaqtx, age = 12. Quotient = 0.857143
+432: It is tree: name = tiyet, age = 7. Quotient = 0.4
+433: It is tree: name = pikvlef, age = 18. Quotient = 0.714286
+434: It is bush: name = iddzzxrobm, Number month of flowering = 2. Quotient = 0.8
+435: It is flowers: name = bhuel, type of = homemade. Quotient = 0.6
+436: It is flowers: name = qonrwkbsgv, type of = garden. Quotient = 0.9
+437: It is flowers: name = clzazo, type of = wild. Quotient = 0.666667
+438: It is flowers: name = jwb, type of = garden. Quotient = 1
+439: It is bush: name = ljsbna, Number month of flowering = 4. Quotient = 0.833333
+440: It is bush: name = tk, Number month of flowering = 9. Quotient = 1
+441: It is tree: name = vdgwhy, age = 7. Quotient = 0.833333
+442: It is tree: name = vco, age = 1. Quotient = 0.666667
+443: It is tree: name = bnpperdp, age = 3. Quotient = 0.875
+444: It is flowers: name = xphuihgy, type of = wild. Quotient = 0.625
+445: It is bush: name = nnrgdp, Number month of flowering = 3. Quotient = 1
+446: It is tree: name = li, age = 3. Quotient = 0.5
+447: It is bush: name = mhi, Number month of flowering = 12. Quotient = 0.666667
+448: It is tree: name = ncycwtfjh, age = 11. Quotient = 0.888889
+449: It is bush: name = aia, Number month of flowering = 0. Quotient = 0
+450: It is tree: name = jre, age = 17. Quotient = 0.666667
+451: It is flowers: name = gqymhsigdz, type of = garden. Quotient = 0.8
+452: It is tree: name = pngksyani, age = 18. Quotient = 0.666667
+453: It is flowers: name = scgdonrml, type of = garden. Quotient = 0.888889
+454: It is flowers: name = yexxl, type of = homemade. Quotient = 0.6
+455: It is flowers: name = kb, type of = garden. Quotient = 1
+456: It is tree: name = dhdihzi, age = 13. Quotient = 0.714286
+457: It is flowers: name = paci, type of = homemade. Quotient = 0.5
+458: It is tree: name = egtwnro, age = 19. Quotient = 0.714286
+459: It is tree: name = efjxma, age = 13. Quotient = 0.666667
+460: It is flowers: name = it, type of = garden. Quotient = 0.5
+461: It is tree: name = gbotkz, age = 16. Quotient = 0.833333
+462: It is bush: name = cwhqj, Number month of flowering = 12. Quotient = 1
+463: It is flowers: name = rgzbafjhk, type of = wild. Quotient = 0.888889
+464: It is tree: name = o, age = 16. Quotient = 0
+465: It is flowers: name = uuaogaa, type of = wild. Quotient = 0.142857
+466: It is tree: name = tbjhtolkdx, age = 8. Quotient = 0.9
+467: It is bush: name = v, Number month of flowering = 8. Quotient = 1
+468: It is tree: name = btotkc, age = 8. Quotient = 0.833333
+469: It is flowers: name = lrrbl, type of = homemade. Quotient = 1
+470: It is bush: name = mjiyrlny, Number month of flowering = 1. Quotient = 0.625
+471: It is flowers: name = kquuj, type of = wild. Quotient = 0.6
+472: It is tree: name = pumqa, age = 18. Quotient = 0.6
+473: It is flowers: name = wgreb, type of = wild. Quotient = 0.8
+474: It is bush: name = egotnn, Number month of flowering = 1. Quotient = 0.666667
+475: It is flowers: name = awtodscly, type of = garden. Quotient = 0.666667
+476: It is tree: name = cjstdxp, age = 2. Quotient = 1
+477: It is bush: name = egfd, Number month of flowering = 10. Quotient = 0.75
+478: It is bush: name = zpyj, Number month of flowering = 10. Quotient = 0.75
+479: It is bush: name = nbyftokduy, Number month of flowering = 8. Quotient = 0.6
+480: It is bush: name = ifpllhycnr, Number month of flowering = 9. Quotient = 0.8
+481: It is flowers: name = zdx, type of = garden. Quotient = 1
+482: It is flowers: name = yiwlccl, type of = homemade. Quotient = 0.714286
+483: It is flowers: name = mzopr, type of = wild. Quotient = 0.8
+484: It is bush: name = pzx, Number month of flowering = 6. Quotient = 1
+485: It is flowers: name = e, type of = wild. Quotient = 0
+486: It is flowers: name = tjyamz, type of = garden. Quotient = 0.666667
+487: It is tree: name = tak, age = 9. Quotient = 0.666667
+488: It is tree: name = dkybtrvqsb, age = 1. Quotient = 0.9
+489: It is bush: name = oadgh, Number month of flowering = 6. Quotient = 0.6
+490: It is flowers: name = hpsfp, type of = garden. Quotient = 1
+491: It is tree: name = k, age = 13. Quotient = 1
+492: It is tree: name = fiuquhd, age = 9. Quotient = 0.571429
+493: It is tree: name = tyzy, age = 5. Quotient = 0.5
+494: It is bush: name = v, Number month of flowering = 12. Quotient = 1
+495: It is tree: name = ctf, age = 10. Quotient = 1
+496: It is flowers: name = czfnndtz, type of = wild. Quotient = 1
+497: It is flowers: name = takkbtpgrw, type of = garden. Quotient = 0.9
+498: It is flowers: name = xmamp, type of = garden. Quotient = 0.8
+499: It is bush: name = m, Number month of flowering = 10. Quotient = 1
+500: It is flowers: name = nmobfinuwf, type of = garden. Quotient = 0.7
+501: It is flowers: name = v, type of = homemade. Quotient = 1
+502: It is flowers: name = nbzzcwu, type of = wild. Quotient = 0.857143
+503: It is tree: name = ongkjpbcpx, age = 9. Quotient = 0.9
+504: It is flowers: name = hykzpoa, type of = homemade. Quotient = 0.571429
+505: It is flowers: name = vxiwb, type of = wild. Quotient = 0.8
+506: It is tree: name = vzzuo, age = 12. Quotient = 0.6
+507: It is tree: name = lgyt, age = 17. Quotient = 0.75
+508: It is tree: name = phnxqbqtw, age = 11. Quotient = 1
+509: It is flowers: name = w, type of = garden. Quotient = 1
+510: It is tree: name = a, age = 2. Quotient = 0
+511: It is bush: name = mcjlvqgbg, Number month of flowering = 2. Quotient = 1
+512: It is bush: name = hbsbq, Number month of flowering = 2. Quotient = 1
+513: It is flowers: name = fnnpsnjgj, type of = wild. Quotient = 1
+514: It is flowers: name = bus, type of = wild. Quotient = 0.666667
+515: It is flowers: name = eadswjrd, type of = wild. Quotient = 0.75
+516: It is tree: name = mngdutoz, age = 9. Quotient = 0.75
+517: It is bush: name = ottlbevxhh, Number month of flowering = 9. Quotient = 0.8
+518: It is flowers: name = qoid, type of = homemade. Quotient = 0.5
+519: It is bush: name = sejf, Number month of flowering = 10. Quotient = 0.75
+520: It is bush: name = fiokq, Number month of flowering = 2. Quotient = 0.6
+521: It is flowers: name = dqghmdhr, type of = garden. Quotient = 1
+522: It is bush: name = vyef, Number month of flowering = 4. Quotient = 0.5
+523: It is tree: name = shr, age = 18. Quotient = 1
+524: It is tree: name = oj, age = 10. Quotient = 0.5
+525: It is tree: name = dzpuaspk, age = 18. Quotient = 0.75
+526: It is tree: name = kyuiseur, age = 14. Quotient = 0.375
+527: It is tree: name = ouiklpsrwq, age = 3. Quotient = 0.7
+528: It is flowers: name = qtzgnloba, type of = garden. Quotient = 0.777778
+529: It is tree: name = rm, age = 1. Quotient = 1
+530: It is tree: name = msf, age = 9. Quotient = 1
+531: It is flowers: name = zrbdmr, type of = homemade. Quotient = 1
+532: It is bush: name = jjx, Number month of flowering = 0. Quotient = 1
+533: It is tree: name = t, age = 6. Quotient = 1
+534: It is bush: name = mwhmz, Number month of flowering = 7. Quotient = 1
+535: It is bush: name = oaxfw, Number month of flowering = 2. Quotient = 0.6
+536: It is tree: name = ccfke, age = 9. Quotient = 0.8
+537: It is bush: name = zrfflxk, Number month of flowering = 2. Quotient = 1
+538: It is tree: name = xdajzmyp, age = 13. Quotient = 0.75
+539: It is tree: name = gsirgo, age = 5. Quotient = 0.666667
+540: It is bush: name = dgr, Number month of flowering = 6. Quotient = 1
+541: It is tree: name = xjbdlive, age = 18. Quotient = 0.75
+542: It is flowers: name = fthdqaeq, type of = homemade. Quotient = 0.75
+543: It is bush: name = pqvmc, Number month of flowering = 0. Quotient = 1
+544: It is bush: name = xdf, Number month of flowering = 6. Quotient = 1
+545: It is bush: name = fkj, Number month of flowering = 11. Quotient = 1
+546: It is tree: name = pfliqoih, age = 18. Quotient = 0.625
+547: It is bush: name = riigfo, Number month of flowering = 7. Quotient = 0.5
+548: It is bush: name = jkjvn, Number month of flowering = 5. Quotient = 1
+549: It is flowers: name = zzyq, type of = homemade. Quotient = 0.75
+550: It is bush: name = rnqx, Number month of flowering = 3. Quotient = 1
+551: It is flowers: name = nrsrsyuoe, type of = garden. Quotient = 0.555556
+552: It is bush: name = cazj, Number month of flowering = 7. Quotient = 0.75
+553: It is flowers: name = furgdiq, type of = wild. Quotient = 0.714286
+554: It is bush: name = y, Number month of flowering = 11. Quotient = 0
+555: It is tree: name = y, age = 18. Quotient = 0
+556: It is flowers: name = mpqoabstfq, type of = wild. Quotient = 0.8
+557: It is bush: name = tulkcijtjw, Number month of flowering = 7. Quotient = 0.8
+558: It is flowers: name = vyep, type of = wild. Quotient = 0.5
+559: It is bush: name = zbrb, Number month of flowering = 2. Quotient = 1
+560: It is tree: name = mzzfp, age = 14. Quotient = 1
+561: It is tree: name = lfyv, age = 3. Quotient = 0.75
+562: It is bush: name = pifyayqr, Number month of flowering = 2. Quotient = 0.5
+563: It is bush: name = sblrdgtl, Number month of flowering = 8. Quotient = 1
+564: It is bush: name = rzu, Number month of flowering = 3. Quotient = 0.666667
+565: It is flowers: name = sytg, type of = garden. Quotient = 0.75
+566: It is bush: name = bzyjsza, Number month of flowering = 9. Quotient = 0.714286
+567: It is tree: name = sujbmsf, age = 20. Quotient = 0.857143
+568: It is tree: name = hgxavcwj, age = 9. Quotient = 0.875
+569: It is tree: name = pnlo, age = 5. Quotient = 0.75
+570: It is bush: name = vfr, Number month of flowering = 9. Quotient = 1
+571: It is flowers: name = wzigqmjj, type of = garden. Quotient = 0.875
+572: It is flowers: name = o, type of = wild. Quotient = 0
+573: It is bush: name = fyet, Number month of flowering = 9. Quotient = 0.5
+574: It is tree: name = lvbkphmos, age = 1. Quotient = 0.888889
+575: It is tree: name = pzkxrrefku, age = 4. Quotient = 0.8
+576: It is flowers: name = pbs, type of = homemade. Quotient = 1
+577: It is flowers: name = rndpbo, type of = garden. Quotient = 0.833333
+578: It is flowers: name = wdmg, type of = homemade. Quotient = 1
+579: It is bush: name = tlnz, Number month of flowering = 3. Quotient = 1
+580: It is flowers: name = dzpgcrk, type of = homemade. Quotient = 1
+581: It is bush: name = kfwu, Number month of flowering = 1. Quotient = 0.75
+582: It is flowers: name = xg, type of = garden. Quotient = 1
+583: It is bush: name = sexkcwcdk, Number month of flowering = 2. Quotient = 0.888889
+584: It is bush: name = zwywpkib, Number month of flowering = 0. Quotient = 0.75
+585: It is bush: name = t, Number month of flowering = 10. Quotient = 1
+586: It is tree: name = kocnthlne, age = 14. Quotient = 0.777778
+587: It is tree: name = zpa, age = 4. Quotient = 0.666667
+588: It is tree: name = anjhyx, age = 5. Quotient = 0.666667
+589: It is flowers: name = qrr, type of = garden. Quotient = 1
+590: It is tree: name = l, age = 3. Quotient = 1
+591: It is bush: name = lqesat, Number month of flowering = 1. Quotient = 0.666667
+592: It is flowers: name = awupnfx, type of = wild. Quotient = 0.714286
+593: It is flowers: name = xxmijt, type of = homemade. Quotient = 0.833333
+594: It is flowers: name = faqlxupd, type of = garden. Quotient = 0.75
+595: It is bush: name = lsl, Number month of flowering = 2. Quotient = 1
+596: It is tree: name = l, age = 11. Quotient = 1
+597: It is tree: name = gxn, age = 10. Quotient = 1
+598: It is bush: name = ksudjvy, Number month of flowering = 11. Quotient = 0.714286
+599: It is flowers: name = eztier, type of = garden. Quotient = 0.5
+600: It is flowers: name = fvhjcyb, type of = garden. Quotient = 0.857143
+601: It is bush: name = ohmf, Number month of flowering = 10. Quotient = 0.75
+602: It is bush: name = fsutjaav, Number month of flowering = 8. Quotient = 0.625
+603: It is tree: name = yarxfoow, age = 9. Quotient = 0.5
+604: It is bush: name = ozlysvy, Number month of flowering = 10. Quotient = 0.571429
+605: It is flowers: name = vzxa, type of = wild. Quotient = 0.75
+606: It is bush: name = i, Number month of flowering = 6. Quotient = 0
+607: It is bush: name = kummxksyq, Number month of flowering = 11. Quotient = 0.777778
+608: It is bush: name = ngn, Number month of flowering = 12. Quotient = 1
+609: It is bush: name = kbt, Number month of flowering = 1. Quotient = 1
+610: It is bush: name = wwvd, Number month of flowering = 7. Quotient = 1
+611: It is bush: name = drjft, Number month of flowering = 2. Quotient = 1
+612: It is tree: name = dulvnmja, age = 9. Quotient = 0.75
+613: It is flowers: name = fmptlqv, type of = garden. Quotient = 1
+614: It is tree: name = ihlgzj, age = 8. Quotient = 0.833333
+615: It is tree: name = v, age = 6. Quotient = 1
+616: It is bush: name = tpwoec, Number month of flowering = 7. Quotient = 0.666667
+617: It is tree: name = uiuwda, age = 11. Quotient = 0.333333
+618: It is bush: name = edtbch, Number month of flowering = 5. Quotient = 0.833333
+619: It is flowers: name = m, type of = wild. Quotient = 1
+620: It is bush: name = pzknlf, Number month of flowering = 6. Quotient = 1
+621: It is tree: name = oivuzl, age = 14. Quotient = 0.5
+622: It is tree: name = bv, age = 13. Quotient = 1
+623: It is bush: name = ratrnbl, Number month of flowering = 8. Quotient = 0.857143
+624: It is tree: name = irjo, age = 2. Quotient = 0.5
+625: It is bush: name = ahsrjhtmzl, Number month of flowering = 12. Quotient = 0.9
+626: It is flowers: name = ufy, type of = garden. Quotient = 0.333333
+627: It is flowers: name = tswntmridm, type of = wild. Quotient = 0.9
+628: It is flowers: name = avvumr, type of = wild. Quotient = 0.666667
+629: It is tree: name = l, age = 3. Quotient = 1
+630: It is tree: name = hcxkwyllb, age = 4. Quotient = 0.888889
+631: It is flowers: name = gyrx, type of = wild. Quotient = 0.75
+632: It is bush: name = bfcuxagtoy, Number month of flowering = 4. Quotient = 0.6
+633: It is bush: name = fceswcq, Number month of flowering = 3. Quotient = 0.857143
+634: It is bush: name = vfzihjpzb, Number month of flowering = 8. Quotient = 0.888889
+635: It is tree: name = fdscp, age = 13. Quotient = 1
+636: It is flowers: name = yghvkl, type of = wild. Quotient = 0.833333
+637: It is bush: name = npvl, Number month of flowering = 10. Quotient = 1
+638: It is flowers: name = wni, type of = garden. Quotient = 0.666667
+639: It is tree: name = ecjiuwoix, age = 5. Quotient = 0.444444
+640: It is tree: name = wvuwkws, age = 5. Quotient = 0.857143
+641: It is tree: name = pwhbzhsi, age = 10. Quotient = 0.875
+642: It is bush: name = cmurgf, Number month of flowering = 8. Quotient = 0.833333
+643: It is flowers: name = vdbwrbdhlz, type of = garden. Quotient = 1
+644: It is flowers: name = rcepobwi, type of = homemade. Quotient = 0.625
+645: It is bush: name = o, Number month of flowering = 3. Quotient = 0
+646: It is flowers: name = ryqux, type of = garden. Quotient = 0.6
+647: It is flowers: name = frlsrol, type of = garden. Quotient = 0.857143
+648: It is flowers: name = zrzkc, type of = homemade. Quotient = 1
+649: It is bush: name = htfnidnc, Number month of flowering = 4. Quotient = 0.875
+650: It is flowers: name = n, type of = homemade. Quotient = 1
+651: It is flowers: name = m, type of = homemade. Quotient = 1
+652: It is bush: name = bffeajoaf, Number month of flowering = 7. Quotient = 0.555556
+653: It is tree: name = b, age = 8. Quotient = 1
+654: It is tree: name = nudmepgti, age = 14. Quotient = 0.666667
+655: It is bush: name = nxeykmgovc, Number month of flowering = 3. Quotient = 0.7
+656: It is bush: name = lqazrbu, Number month of flowering = 2. Quotient = 0.714286
+657: It is tree: name = o, age = 4. Quotient = 0
+658: It is bush: name = f, Number month of flowering = 6. Quotient = 1
+659: It is tree: name = scsemve, age = 16. Quotient = 0.714286
+660: It is tree: name = wcy, age = 18. Quotient = 0.666667
+661: It is tree: name = rxw, age = 12. Quotient = 1
+662: It is bush: name = wqr, Number month of flowering = 2. Quotient = 1
+663: It is flowers: name = krzowrbp, type of = garden. Quotient = 0.875
+664: It is flowers: name = pbbplgbix, type of = garden. Quotient = 0.888889
+665: It is tree: name = dlmqba, age = 19. Quotient = 0.833333
+666: It is tree: name = b, age = 6. Quotient = 1
+667: It is bush: name = bvtp, Number month of flowering = 1. Quotient = 1
+668: It is tree: name = auqyt, age = 11. Quotient = 0.4
+669: It is flowers: name = nnoaly, type of = homemade. Quotient = 0.5
+670: It is tree: name = smwc, age = 6. Quotient = 1
+671: It is bush: name = nayzzmbzgl, Number month of flowering = 8. Quotient = 0.8
+672: It is bush: name = nbntp, Number month of flowering = 3. Quotient = 1
+673: It is bush: name = c, Number month of flowering = 1. Quotient = 1
+674: It is bush: name = qrm, Number month of flowering = 11. Quotient = 1
+675: It is bush: name = wqc, Number month of flowering = 12. Quotient = 1
+676: It is flowers: name = q, type of = wild. Quotient = 1
+677: It is flowers: name = o, type of = wild. Quotient = 0
+678: It is bush: name = icea, Number month of flowering = 0. Quotient = 0.25
+679: It is bush: name = ahi, Number month of flowering = 6. Quotient = 0.333333
+680: It is flowers: name = vxyzuhvwr, type of = wild. Quotient = 0.777778
+681: It is flowers: name = wrfbao, type of = garden. Quotient = 0.666667
+682: It is tree: name = bam, age = 11. Quotient = 0.666667
+683: It is bush: name = skjgz, Number month of flowering = 5. Quotient = 1
+684: It is flowers: name = dxo, type of = wild. Quotient = 0.666667
+685: It is tree: name = hsbvh, age = 7. Quotient = 1
+686: It is tree: name = lsyyblax, age = 6. Quotient = 0.625
+687: It is flowers: name = wmbm, type of = garden. Quotient = 1
+688: It is tree: name = cvqjfavsg, age = 5. Quotient = 0.888889
+689: It is bush: name = zwenzicvts, Number month of flowering = 0. Quotient = 0.8
+690: It is flowers: name = ltp, type of = homemade. Quotient = 1
+691: It is tree: name = i, age = 2. Quotient = 0
+692: It is tree: name = xaucuarxa, age = 4. Quotient = 0.444444
+693: It is flowers: name = mno, type of = wild. Quotient = 0.666667
+694: It is flowers: name = firew, type of = garden. Quotient = 0.6
+695: It is flowers: name = u, type of = homemade. Quotient = 0
+696: It is tree: name = grfio, age = 5. Quotient = 0.6
+697: It is bush: name = undmuzop, Number month of flowering = 9. Quotient = 0.625
+698: It is bush: name = hfcgoqmxud, Number month of flowering = 7. Quotient = 0.8
+699: It is tree: name = aoj, age = 1. Quotient = 0.333333
+700: It is bush: name = orzuoae, Number month of flowering = 9. Quotient = 0.285714
+701: It is bush: name = c, Number month of flowering = 6. Quotient = 1
+702: It is tree: name = hdtatqidmy, age = 7. Quotient = 0.7
+703: It is flowers: name = skj, type of = wild. Quotient = 1
+704: It is flowers: name = acuycbxa, type of = homemade. Quotient = 0.5
+705: It is tree: name = bj, age = 2. Quotient = 1
+706: It is bush: name = iy, Number month of flowering = 1. Quotient = 0
+707: It is tree: name = jpvmfm, age = 20. Quotient = 1
+708: It is tree: name = ygqhsmfcr, age = 20. Quotient = 0.888889
+709: It is bush: name = eok, Number month of flowering = 12. Quotient = 0.333333
+710: It is bush: name = rrgdptjfqi, Number month of flowering = 3. Quotient = 0.9
+711: It is bush: name = aprjljuhnc, Number month of flowering = 3. Quotient = 0.8
+712: It is tree: name = dgiqgm, age = 4. Quotient = 0.833333
+713: It is bush: name = c, Number month of flowering = 2. Quotient = 1
+714: It is flowers: name = khxcqp, type of = wild. Quotient = 1
+715: It is bush: name = rgdx, Number month of flowering = 3. Quotient = 1
+716: It is flowers: name = hlvln, type of = wild. Quotient = 1
+717: It is flowers: name = womttybcmw, type of = homemade. Quotient = 0.8
+718: It is flowers: name = rjdno, type of = garden. Quotient = 0.8
+719: It is bush: name = to, Number month of flowering = 5. Quotient = 0.5
+720: It is flowers: name = vcgbt, type of = homemade. Quotient = 1
+721: It is tree: name = amykzgoo, age = 20. Quotient = 0.5
+722: It is tree: name = jpeubruv, age = 5. Quotient = 0.625
+723: It is flowers: name = zkzzvn, type of = homemade. Quotient = 1
+724: It is flowers: name = nxarvh, type of = garden. Quotient = 0.833333
+725: It is tree: name = ykbyqkojem, age = 13. Quotient = 0.6
+726: It is bush: name = nuzyp, Number month of flowering = 5. Quotient = 0.6
+727: It is flowers: name = h, type of = wild. Quotient = 1
+728: It is bush: name = qgvmxgpwof, Number month of flowering = 7. Quotient = 0.9
+729: It is flowers: name = ds, type of = wild. Quotient = 1
+730: It is tree: name = p, age = 4. Quotient = 1
+731: It is tree: name = csoblsvl, age = 16. Quotient = 0.875
+732: It is tree: name = jxdyjgkxso, age = 6. Quotient = 0.8
+733: It is tree: name = zyzh, age = 19. Quotient = 0.75
+734: It is bush: name = scyijdll, Number month of flowering = 9. Quotient = 0.75
+735: It is flowers: name = jpot, type of = garden. Quotient = 0.75
+736: It is flowers: name = qmekbrex, type of = wild. Quotient = 0.75
+737: It is flowers: name = yjfdp, type of = garden. Quotient = 0.8
+738: It is flowers: name = a, type of = homemade. Quotient = 0
+739: It is flowers: name = ofgnjvldsh, type of = wild. Quotient = 0.9
+740: It is flowers: name = w, type of = garden. Quotient = 1
+741: It is tree: name = nvlaf, age = 18. Quotient = 0.8
+742: It is flowers: name = tgetyc, type of = wild. Quotient = 0.666667
+743: It is bush: name = z, Number month of flowering = 8. Quotient = 1
+744: It is bush: name = zm, Number month of flowering = 3. Quotient = 1
+745: It is bush: name = stqzm, Number month of flowering = 3. Quotient = 1
+746: It is bush: name = at, Number month of flowering = 1. Quotient = 0.5
+747: It is tree: name = fjlkwmif, age = 1. Quotient = 0.875
+748: It is bush: name = ofca, Number month of flowering = 2. Quotient = 0.5
+749: It is bush: name = mupbgykbm, Number month of flowering = 6. Quotient = 0.777778
+750: It is bush: name = nphn, Number month of flowering = 1. Quotient = 1
+751: It is tree: name = nndup, age = 1. Quotient = 0.8
+752: It is flowers: name = t, type of = wild. Quotient = 1
+753: It is tree: name = qvfdk, age = 2. Quotient = 1
+754: It is bush: name = fwxqmog, Number month of flowering = 2. Quotient = 0.857143
+755: It is flowers: name = brryji, type of = garden. Quotient = 0.666667
+756: It is tree: name = ffnpg, age = 20. Quotient = 1
+757: It is tree: name = syv, age = 16. Quotient = 0.666667
+758: It is flowers: name = urnsuu, type of = wild. Quotient = 0.5
+759: It is tree: name = zwkdnlo, age = 4. Quotient = 0.857143
+760: It is tree: name = lfwmfuds, age = 16. Quotient = 0.875
+761: It is tree: name = sxrduymle, age = 10. Quotient = 0.666667
+762: It is bush: name = omsn, Number month of flowering = 2. Quotient = 0.75
+763: It is bush: name = zqjpt, Number month of flowering = 7. Quotient = 1
+764: It is tree: name = zhsal, age = 11. Quotient = 0.8
+765: It is flowers: name = ukfjhyr, type of = homemade. Quotient = 0.714286
+766: It is tree: name = cvj, age = 2. Quotient = 1
+767: It is bush: name = eqdqgyeiam, Number month of flowering = 11. Quotient = 0.5
+768: It is bush: name = bhushgctgi, Number month of flowering = 11. Quotient = 0.8
+769: It is tree: name = eueyknibcq, age = 5. Quotient = 0.5
+770: It is tree: name = vrdco, age = 1. Quotient = 0.8
+771: It is tree: name = f, age = 15. Quotient = 1
+772: It is flowers: name = f, type of = garden. Quotient = 1
+773: It is flowers: name = gqq, type of = garden. Quotient = 1
+774: It is bush: name = wgqbpsrt, Number month of flowering = 6. Quotient = 1
+775: It is tree: name = skntbomvf, age = 16. Quotient = 0.888889
+776: It is tree: name = gk, age = 3. Quotient = 1
+777: It is bush: name = kikxiev, Number month of flowering = 5. Quotient = 0.571429
+778: It is tree: name = ymleir, age = 7. Quotient = 0.5
+779: It is bush: name = c, Number month of flowering = 3. Quotient = 1
+780: It is flowers: name = eed, type of = homemade. Quotient = 0.333333
+781: It is tree: name = zhuqvt, age = 11. Quotient = 0.833333
+782: It is bush: name = jsscgjjjk, Number month of flowering = 0. Quotient = 1
+783: It is bush: name = nzil, Number month of flowering = 7. Quotient = 0.75
+784: It is tree: name = kg, age = 2. Quotient = 1
+785: It is tree: name = bflenmprq, age = 7. Quotient = 0.888889
+786: It is tree: name = n, age = 17. Quotient = 1
+787: It is bush: name = yoisubih, Number month of flowering = 6. Quotient = 0.375
+788: It is bush: name = mtyp, Number month of flowering = 7. Quotient = 0.75
+789: It is bush: name = agdbaegmcj, Number month of flowering = 5. Quotient = 0.7
+790: It is tree: name = ect, age = 10. Quotient = 0.666667
+791: It is flowers: name = azglppqkde, type of = wild. Quotient = 0.8
+792: It is bush: name = bjwuablyvn, Number month of flowering = 2. Quotient = 0.7
+793: It is flowers: name = vsee, type of = wild. Quotient = 0.5
+794: It is bush: name = upzyv, Number month of flowering = 8. Quotient = 0.6
+795: It is tree: name = euhcukwp, age = 8. Quotient = 0.625
+796: It is tree: name = hixqzwtur, age = 16. Quotient = 0.777778
+797: It is tree: name = rrxpzjmekb, age = 18. Quotient = 0.9
+798: It is bush: name = fqiumwrrwl, Number month of flowering = 4. Quotient = 0.8
+799: It is flowers: name = hagrct, type of = garden. Quotient = 0.833333
+800: It is tree: name = depyp, age = 15. Quotient = 0.6
+801: It is flowers: name = pbwcetu, type of = homemade. Quotient = 0.714286
+802: It is tree: name = ovcgrb, age = 4. Quotient = 0.833333
+803: It is bush: name = sji, Number month of flowering = 2. Quotient = 0.666667
+804: It is bush: name = tc, Number month of flowering = 10. Quotient = 1
+805: It is tree: name = mlkanonxv, age = 8. Quotient = 0.777778
+806: It is tree: name = hmqk, age = 11. Quotient = 1
+807: It is flowers: name = fghlioh, type of = homemade. Quotient = 0.714286
+808: It is flowers: name = oxauyt, type of = wild. Quotient = 0.333333
+809: It is flowers: name = xbqdrj, type of = garden. Quotient = 1
+810: It is flowers: name = phuslpoub, type of = garden. Quotient = 0.666667
+811: It is tree: name = ef, age = 18. Quotient = 0.5
+812: It is tree: name = idhn, age = 14. Quotient = 0.75
+813: It is flowers: name = ftei, type of = wild. Quotient = 0.5
+814: It is flowers: name = vyhedqkrvk, type of = homemade. Quotient = 0.8
+815: It is bush: name = ieikc, Number month of flowering = 10. Quotient = 0.4
+816: It is flowers: name = vpdlei, type of = garden. Quotient = 0.666667
+817: It is bush: name = fhnonkqr, Number month of flowering = 12. Quotient = 0.875
+818: It is bush: name = hicp, Number month of flowering = 11. Quotient = 0.75
+819: It is tree: name = rvuov, age = 12. Quotient = 0.6
+820: It is bush: name = xru, Number month of flowering = 6. Quotient = 0.666667
+821: It is bush: name = yvuuc, Number month of flowering = 4. Quotient = 0.4
+822: It is bush: name = jhfzbltlqv, Number month of flowering = 11. Quotient = 1
+823: It is bush: name = u, Number month of flowering = 0. Quotient = 0
+824: It is bush: name = tigug, Number month of flowering = 3. Quotient = 0.6
+825: It is flowers: name = gs, type of = homemade. Quotient = 1
+826: It is tree: name = kog, age = 14. Quotient = 0.666667
+827: It is tree: name = kxhvrso, age = 7. Quotient = 0.857143
+828: It is tree: name = oyityjkpy, age = 10. Quotient = 0.444444
+829: It is tree: name = djmcdjwag, age = 14. Quotient = 0.888889
+830: It is bush: name = axdjcxdhm, Number month of flowering = 1. Quotient = 0.888889
+831: It is tree: name = fiqjiy, age = 14. Quotient = 0.5
+832: It is bush: name = nyid, Number month of flowering = 1. Quotient = 0.5
+833: It is flowers: name = s, type of = homemade. Quotient = 1
+834: It is tree: name = fgy, age = 14. Quotient = 0.666667
+835: It is bush: name = whe, Number month of flowering = 1. Quotient = 0.666667
+836: It is bush: name = dfrncjsgnj, Number month of flowering = 2. Quotient = 1
+837: It is tree: name = ukrnkiq, age = 9. Quotient = 0.714286
+838: It is tree: name = pycnha, age = 1. Quotient = 0.666667
+839: It is bush: name = rnggcgxlo, Number month of flowering = 12. Quotient = 0.888889
+840: It is bush: name = q, Number month of flowering = 10. Quotient = 1
+841: It is tree: name = btaqzypg, age = 19. Quotient = 0.75
+842: It is flowers: name = nldaeeihwy, type of = homemade. Quotient = 0.5
+843: It is tree: name = wehsnloh, age = 10. Quotient = 0.75
+844: It is tree: name = dwbwkvpun, age = 14. Quotient = 0.888889
+845: It is bush: name = tzutlmbi, Number month of flowering = 3. Quotient = 0.75
+846: It is flowers: name = svyzv, type of = garden. Quotient = 0.8
+847: It is bush: name = bajmhewtpe, Number month of flowering = 7. Quotient = 0.7
+848: It is tree: name = ss, age = 15. Quotient = 1
+849: It is flowers: name = v, type of = homemade. Quotient = 1
+850: It is bush: name = f, Number month of flowering = 6. Quotient = 1
+851: It is bush: name = hpqs, Number month of flowering = 7. Quotient = 1
+852: It is flowers: name = cryxpmfdye, type of = wild. Quotient = 0.7
+853: It is flowers: name = wpuzvu, type of = homemade. Quotient = 0.666667
+854: It is bush: name = t, Number month of flowering = 6. Quotient = 1
+855: It is flowers: name = rnfuzk, type of = wild. Quotient = 0.833333
+856: It is bush: name = tdbuea, Number month of flowering = 12. Quotient = 0.5
+857: It is flowers: name = zofhfuvdb, type of = garden. Quotient = 0.777778
+858: It is flowers: name = jnqpcixx, type of = homemade. Quotient = 0.875
+859: It is tree: name = f, age = 14. Quotient = 1
+860: It is tree: name = hhqqzfe, age = 12. Quotient = 0.857143
+861: It is tree: name = zqteuyeey, age = 7. Quotient = 0.333333
+862: It is bush: name = pb, Number month of flowering = 2. Quotient = 1
+863: It is bush: name = ixqndphxa, Number month of flowering = 7. Quotient = 0.777778
+864: It is bush: name = ubspmo, Number month of flowering = 3. Quotient = 0.666667
+865: It is tree: name = qtkag, age = 7. Quotient = 0.8
+866: It is tree: name = xidkelmuv, age = 3. Quotient = 0.666667
+867: It is tree: name = lx, age = 16. Quotient = 1
+868: It is tree: name = apmnicws, age = 8. Quotient = 0.75
+869: It is tree: name = rppxj, age = 5. Quotient = 1
+870: It is tree: name = irmbrcwx, age = 20. Quotient = 0.875
+871: It is tree: name = zaucoixlrt, age = 13. Quotient = 0.6
+872: It is flowers: name = cyau, type of = homemade. Quotient = 0.25
+873: It is flowers: name = us, type of = homemade. Quotient = 0.5
+874: It is tree: name = x, age = 19. Quotient = 1
+875: It is flowers: name = xrdc, type of = garden. Quotient = 1
+876: It is bush: name = vxrzkakmyw, Number month of flowering = 1. Quotient = 0.8
+877: It is flowers: name = p, type of = garden. Quotient = 1
+878: It is flowers: name = zpzdogq, type of = wild. Quotient = 0.857143
+879: It is tree: name = owkg, age = 8. Quotient = 0.75
+880: It is tree: name = yuuf, age = 16. Quotient = 0.25
+881: It is bush: name = ejuidzsjdc, Number month of flowering = 2. Quotient = 0.7
+882: It is flowers: name = htimkefylk, type of = garden. Quotient = 0.7
+883: It is bush: name = ujcru, Number month of flowering = 2. Quotient = 0.6
+884: It is tree: name = stpinr, age = 11. Quotient = 0.833333
+885: It is bush: name = qkbjmfg, Number month of flowering = 3. Quotient = 1
+886: It is bush: name = dkxqh, Number month of flowering = 12. Quotient = 1
+887: It is tree: name = tfwfgir, age = 1. Quotient = 0.857143
+888: It is flowers: name = sgvnpucac, type of = homemade. Quotient = 0.777778
+889: It is tree: name = jyvz, age = 8. Quotient = 0.75
+890: It is bush: name = oiuwqvqoni, Number month of flowering = 0. Quotient = 0.5
+891: It is tree: name = qnfuhrb, age = 12. Quotient = 0.857143
+892: It is flowers: name = vjxujhlmsy, type of = garden. Quotient = 0.8
+893: It is bush: name = ithzlgfui, Number month of flowering = 0. Quotient = 0.666667
+894: It is tree: name = lcikwtkj, age = 12. Quotient = 0.875
+895: It is tree: name = sexsztzkq, age = 19. Quotient = 0.888889
+896: It is bush: name = xsbnfbjsm, Number month of flowering = 7. Quotient = 1
+897: It is tree: name = htvfo, age = 15. Quotient = 0.8
+898: It is flowers: name = eifrg, type of = homemade. Quotient = 0.6
+899: It is flowers: name = kigvlsmjpt, type of = garden. Quotient = 0.9
+900: It is bush: name = ddnzamot, Number month of flowering = 12. Quotient = 0.75
+901: It is flowers: name = q, type of = wild. Quotient = 1
+902: It is tree: name = vavcev, age = 9. Quotient = 0.666667
+903: It is tree: name = ebfd, age = 19. Quotient = 0.75
+904: It is tree: name = ftf, age = 9. Quotient = 1
+905: It is tree: name = ec, age = 19. Quotient = 0.5
+906: It is bush: name = abib, Number month of flowering = 3. Quotient = 0.5
+907: It is bush: name = g, Number month of flowering = 7. Quotient = 1
+908: It is flowers: name = xebup, type of = wild. Quotient = 0.6
+909: It is bush: name = d, Number month of flowering = 1. Quotient = 1
+910: It is bush: name = t, Number month of flowering = 11. Quotient = 1
+911: It is tree: name = ljxwtoqqld, age = 10. Quotient = 0.9
+912: It is tree: name = hlfq, age = 19. Quotient = 1
+913: It is bush: name = woxmxkms, Number month of flowering = 4. Quotient = 0.875
+914: It is tree: name = ojzgucc, age = 12. Quotient = 0.714286
+915: It is bush: name = rh, Number month of flowering = 5. Quotient = 1
+916: It is flowers: name = cpjhapnenh, type of = homemade. Quotient = 0.8
+917: It is tree: name = qoopoxu, age = 1. Quotient = 0.428571
+918: It is bush: name = rrifxulr, Number month of flowering = 11. Quotient = 0.75
+919: It is flowers: name = rnbbck, type of = garden. Quotient = 1
+920: It is flowers: name = viapjofot, type of = wild. Quotient = 0.555556
+921: It is tree: name = fgda, age = 12. Quotient = 0.75
+922: It is flowers: name = bffkqelqn, type of = garden. Quotient = 0.888889
+923: It is bush: name = szwwjyym, Number month of flowering = 8. Quotient = 0.75
+924: It is flowers: name = i, type of = homemade. Quotient = 0
+925: It is tree: name = krxqwk, age = 18. Quotient = 1
+926: It is tree: name = egk, age = 19. Quotient = 0.666667
+927: It is bush: name = lj, Number month of flowering = 12. Quotient = 1
+928: It is tree: name = rtfjlf, age = 7. Quotient = 1
+929: It is bush: name = xr, Number month of flowering = 11. Quotient = 1
+930: It is flowers: name = pbvmuc, type of = wild. Quotient = 0.833333
+931: It is bush: name = knwgzaa, Number month of flowering = 1. Quotient = 0.714286
+932: It is bush: name = qzypc, Number month of flowering = 8. Quotient = 0.8
+933: It is bush: name = xibtmlto, Number month of flowering = 0. Quotient = 0.75
+934: It is tree: name = ehgxpeot, age = 19. Quotient = 0.625
+935: It is tree: name = ohgpisq, age = 7. Quotient = 0.714286
+936: It is bush: name = hcsqavz, Number month of flowering = 3. Quotient = 0.857143
+937: It is bush: name = t, Number month of flowering = 8. Quotient = 1
+938: It is tree: name = qpv, age = 8. Quotient = 1
+939: It is bush: name = tv, Number month of flowering = 0. Quotient = 1
+940: It is bush: name = jhfjogq, Number month of flowering = 12. Quotient = 0.857143
+941: It is bush: name = cmrpphmijm, Number month of flowering = 2. Quotient = 0.9
+942: It is flowers: name = hcohre, type of = homemade. Quotient = 0.666667
+943: It is bush: name = ij, Number month of flowering = 4. Quotient = 0.5
+944: It is bush: name = ta, Number month of flowering = 3. Quotient = 0.5
+945: It is tree: name = fht, age = 10. Quotient = 1
+946: It is bush: name = jn, Number month of flowering = 1. Quotient = 1
+947: It is tree: name = eut, age = 20. Quotient = 0.333333
+948: It is bush: name = pjtiuy, Number month of flowering = 7. Quotient = 0.5
+949: It is flowers: name = skifhmpvdk, type of = garden. Quotient = 0.9
+950: It is flowers: name = o, type of = wild. Quotient = 0
+951: It is tree: name = idgddaz, age = 10. Quotient = 0.714286
+952: It is tree: name = ruhzmzghhm, age = 15. Quotient = 0.9
+953: It is flowers: name = yol, type of = homemade. Quotient = 0.333333
+954: It is tree: name = nxxmug, age = 5. Quotient = 0.833333
+955: It is bush: name = iqybqvuzv, Number month of flowering = 12. Quotient = 0.666667
+956: It is bush: name = kjk, Number month of flowering = 9. Quotient = 1
+957: It is tree: name = cmygzomb, age = 13. Quotient = 0.75
+958: It is tree: name = dszbde, age = 19. Quotient = 0.833333
+959: It is tree: name = viindhgp, age = 18. Quotient = 0.75
+960: It is flowers: name = piorzxud, type of = homemade. Quotient = 0.625
+961: It is bush: name = jgnjqzmjqz, Number month of flowering = 10. Quotient = 1
+962: It is bush: name = dubvph, Number month of flowering = 5. Quotient = 0.833333
+963: It is bush: name = qd, Number month of flowering = 3. Quotient = 1
+964: It is bush: name = vkjjdxy, Number month of flowering = 9. Quotient = 0.857143
+965: It is flowers: name = qj, type of = wild. Quotient = 1
+966: It is tree: name = bfjnxzp, age = 1. Quotient = 1
+967: It is flowers: name = o, type of = garden. Quotient = 0
+968: It is bush: name = rwyxprz, Number month of flowering = 7. Quotient = 0.857143
+969: It is tree: name = wlke, age = 18. Quotient = 0.75
+970: It is tree: name = jfqcfg, age = 5. Quotient = 1
+971: It is tree: name = encbqwnj, age = 20. Quotient = 0.875
+972: It is tree: name = nneej, age = 10. Quotient = 0.6
+973: It is tree: name = msy, age = 3. Quotient = 0.666667
+974: It is bush: name = baqxuaodh, Number month of flowering = 5. Quotient = 0.555556
+975: It is bush: name = xuyo, Number month of flowering = 9. Quotient = 0.25
+976: It is bush: name = gwmsiixni, Number month of flowering = 9. Quotient = 0.666667
+977: It is tree: name = muohrsc, age = 19. Quotient = 0.714286
+978: It is tree: name = pgohbxki, age = 15. Quotient = 0.75
+979: It is flowers: name = zx, type of = garden. Quotient = 1
+980: It is flowers: name = c, type of = wild. Quotient = 1
+981: It is flowers: name = bikpzh, type of = garden. Quotient = 0.833333
+982: It is tree: name = nxyxtczgah, age = 9. Quotient = 0.8
+983: It is tree: name = tfvbef, age = 1. Quotient = 0.833333
+984: It is tree: name = zaltuxt, age = 18. Quotient = 0.714286
+985: It is bush: name = q, Number month of flowering = 11. Quotient = 1
+986: It is bush: name = yhltwdjmol, Number month of flowering = 6. Quotient = 0.8
+987: It is tree: name = k, age = 15. Quotient = 1
+988: It is flowers: name = jzm, type of = wild. Quotient = 1
+989: It is tree: name = lqgmd, age = 18. Quotient = 1
+990: It is flowers: name = ywddazgnw, type of = garden. Quotient = 0.777778
+991: It is flowers: name = ki, type of = wild. Quotient = 0.5
+992: It is tree: name = yhuspsb, age = 9. Quotient = 0.714286
+993: It is flowers: name = yevjng, type of = wild. Quotient = 0.666667
+994: It is bush: name = kqkcq, Number month of flowering = 11. Quotient = 1
+995: It is flowers: name = tnanlloabs, type of = homemade. Quotient = 0.7
+996: It is bush: name = lxj, Number month of flowering = 1. Quotient = 1
+997: It is flowers: name = bfek, type of = wild. Quotient = 0.75
+998: It is tree: name = tvbgphk, age = 11. Quotient = 1
+999: It is flowers: name = oesdbqwhhv, type of = homemade. Quotient = 0.8
